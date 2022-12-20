@@ -1,4 +1,4 @@
-
+## This is a cute game that works. It gave me the idea to use a random number generator to guess lottery numbers.
 import random
 guessesTaken = 0
 print('Hello! What is your name?')
